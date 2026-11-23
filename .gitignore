@@ -1,0 +1,6 @@
+.env
+.venv/
+.cache/
+datasets/
+exports/
+__pycache__/
